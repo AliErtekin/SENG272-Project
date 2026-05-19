@@ -46,3 +46,8 @@ Screenshoot
 --------------
 <img width="1157" height="887" alt="image" src="https://github.com/user-attachments/assets/e2c847e2-69f1-45ce-8ae0-42b4bcfa355f" />
 
+
+Tanıtım Videosu
+---------------
+https://drive.google.com/file/d/1I4zBHUec4zqyVNLCIiS1PYwyD2WJMR2M/view
+
